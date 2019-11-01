@@ -7,8 +7,8 @@ ul{
 }
 li{
   display: block;
-  line-height: 30x;
+  line-height: 30px;
 }
 button{
-  line-height: 1px
+  line-height: 1;
 }
